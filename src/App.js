@@ -15,6 +15,7 @@ function App() {
     <Topicbar/>
     <Filmcard/>
     <Footer/>
+    <div>Harsh Savaliya</div>
     </>
   );
 }
